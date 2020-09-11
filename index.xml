@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Sep 2020 12:54:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Adding Mermaid Support in Hugo (Even Theme)</title>
+      <link>http://localhost:1313/post/adding-mermaid-support-in-hugo-even-theme/</link>
+      <pubDate>Fri, 11 Sep 2020 12:54:00 -0400</pubDate>
+      
+      <guid>http://localhost:1313/post/adding-mermaid-support-in-hugo-even-theme/</guid>
+      <description>I tried some Hugo Themes, some are too powerful and complex to me, such as Academic. I did some research and find Even is a just right theme to me: easy to set up, float TOC, some minor modifiaction to support Mermaid. Here we go! Thanks to this Steps add code below in yoursite/themes/themes_name/layouts/partials/footer.html 1 &amp;lt;script src=&amp;#34;https://cdn.bootcss.com/mermaid/8.8.0/mermaid.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Create mermaid.html under shortcodes 1 2 3 4 5 6 7 &amp;lt;div class=&amp;#34;mermaid&amp;#34;</description>
+    </item>
+    
+    <item>
+      <title>Hugo - A Better Choice to Create Blog on GitHub</title>
+      <link>http://localhost:1313/post/hugo-a-better-choice-to-create-blog-on-github/</link>
+      <pubDate>Thu, 10 Sep 2020 21:46:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/hugo-a-better-choice-to-create-blog-on-github/</guid>
+      <description>Hugo is a very fast static webpage generator, which is widely used to create blogs. I found Gridea is not a good choice due to the time zone problem and unpolished language support, although the workflow is quite simple and excatly what I wished for. So I am trying Hugo, a powerful tool but not as simple.
+Quick Start Installation Doc
+For Windows platform:
+in PowerShell or CMD
+1 2 3 4 5  scoop install hugo-extended hugo new site quickstart cd quickstart git init git submodule add https://github.</description>
+    </item>
+    
+    <item>
+      <title>Adding Mermaid Support in Gridea</title>
+      <link>http://localhost:1313/post/adding-mermaid-support-in-gridea/</link>
+      <pubDate>Thu, 10 Sep 2020 01:07:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/adding-mermaid-support-in-gridea/</guid>
+      <description>Gridea is a simple tool to generate a static blog via GitHub Pages. It support Ketax and standard Markdown. But it still cannot support Mermaid to draw graphs like flow charts. Here is hto to add Mermaid Support. Adding Mermaid Support Add code below in the head of post.ejs. This file locates in [your blogs]\theme\[your theme]\templates 1 2 3 4 5 6 7 8 9 10 11 12 13 14</description>
+    </item>
+    
+    <item>
+      <title>Gridea - Build a Static Blog by Github Pages</title>
+      <link>http://localhost:1313/post/gridea-build-a-static-blog-by-github-pages/</link>
+      <pubDate>Wed, 09 Sep 2020 20:34:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/gridea-build-a-static-blog-by-github-pages/</guid>
+      <description>I have been wanting to build a blog a long time ago, and I even applied for a domain and VPS. But I am lazy, to be honest, and don&amp;rsquo;t want to spend too much time in building a blog. So I googled and found some methods to build a blog via GitHub Pages. Such as Hexo, Jekyll, and Gridea. Among them, Gridea is the easiest for me, as I</description>
+    </item>
+    
+    <item>
+      <title>Markdown语法</title>
+      <link>http://localhost:1313/post/markdown-yu-fa/</link>
+      <pubDate>Wed, 09 Sep 2020 00:10:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/markdown-yu-fa/</guid>
+      <description>主要内容 Markdown是什么？ 谁创造了它？ 为什么要使用它？ 怎么使用？ 谁在用？ 尝试一下 正文 1. Markdown是什么？ Markdown是一种轻</description>
+    </item>
+    
+    <item>
+      <title>VR Experience - Valve Index</title>
+      <link>http://localhost:1313/post/vr-experience-valve-index/</link>
+      <pubDate>Tue, 08 Sep 2020 20:08:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/vr-experience-valve-index/</guid>
+      <description>Yesterday, I tried my Index first time - although I have receive it for more tna 1 month. That is a long story, but all in all, I finally make it works.
+The experience is quite exciting - download steamVR, setup and calibrate Base Stations, update firmware, wear contact glasses lol. Anyway, it spend around 40 min to make it fully works.
+Labs This is a free but intresting game, including some small games.</description>
+    </item>
+    
+  </channel>
+</rss>
