@@ -30,7 +30,7 @@ in PowerShell or CMD
 <meta name="generator" content="Hugo 0.74.3 with theme even" />
 
 
-<link rel="canonical" href="http://localhost:1313/post/hugo-a-better-choice-to-create-blog-on-github/" />
+<link rel="canonical" href="https://zhiqiwang.github.io/post/hugo-a-better-choice-to-create-blog-on-github/" />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -50,7 +50,7 @@ For Windows platform:
 in PowerShell or CMD
 1 2 3 4 5  scoop install hugo-extended hugo new site quickstart cd quickstart git init git submodule add https://github." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/post/hugo-a-better-choice-to-create-blog-on-github/" />
+<meta property="og:url" content="https://zhiqiwang.github.io/post/hugo-a-better-choice-to-create-blog-on-github/" />
 <meta property="article:published_time" content="2020-09-10T21:46:03+00:00" />
 <meta property="article:modified_time" content="2020-09-11T14:32:40-04:00" />
 <meta itemprop="name" content="Hugo - A Better Choice to Create Blog on GitHub">
@@ -303,23 +303,20 @@ theme = &#34;ananke&#34;
     </footer>
   </article>
         </div>
-        <div id="gitalk-container"></div>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js" crossorigin="anonymous"></script>
+        <div id="disqus_thread"></div>
     <script type="text/javascript">
-      var gitalk = new Gitalk({
-        id: '2020-09-10 21:46:03 \u002b0000 UTC',
-        title: 'Hugo - A Better Choice to Create Blog on GitHub',
-        clientID: '0afdaade5907e47ab842',
-        clientSecret: '2345143da80beaa11146f3910a053a56d60c80ef',
-        repo: 'https:\/\/github.com\/ZhiqiWang\/zhiqiwang.github.io',
-        owner: 'ZhiqiWang',
-        admin: ['ZhiqiWang'],
-        body: decodeURI(location.href)
-      });
-      gitalk.render('gitalk-container');
+    (function() {
+      
+      
+      if (window.location.hostname === 'localhost') return;
+
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      var disqus_shortname = 'Zhiqi\u0027s-Blog';
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://github.com/gitalk/gitalk">comments powered by gitalk.</a></noscript>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
   
 
@@ -333,7 +330,7 @@ theme = &#34;ananke&#34;
       <a href="mailto:wangzq863@gmail.com" class="iconfont icon-email" title="email"></a>
       <a href="https://www.linkedin.com/in/zhiqiwangoptical/" class="iconfont icon-linkedin" title="linkedin"></a>
       <a href="https://github.com/ZhiqiWang/" class="iconfont icon-github" title="github"></a>
-  <a href="http://localhost:1313/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+  <a href="https://zhiqiwang.github.io/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
 </div>
 
 <div class="copyright">
