@@ -6,7 +6,7 @@
     <description>Recent content in Tips on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2020 12:54:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 16:14:00 -0400</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/tips/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,11 @@
     <item>
       <title>Automotive Depoly Blog with Hugo</title>
       <link>http://localhost:1313/post/automotive-depoly-blog-with-hugo/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 11 Sep 2020 16:14:00 -0400</pubDate>
       
       <guid>http://localhost:1313/post/automotive-depoly-blog-with-hugo/</guid>
-      <description>Just a memo. First add
-1 2 3 4 5 6 7 8 9 10 11  copy-item -path &amp;#39;D:\Google Cloud\github\BlogSource-Zhiqi\posts\*.*&amp;#39; -Destination &amp;#39;D:\Google Cloud\github\zhiqiblog\content\post\&amp;#39; -Force d: cd &amp;#39;D:\Google Cloud\github\zhiqiblog\&amp;#39; Remove-Item -Path zhiqiwang.github.io -Recurse -Force hugo -D Copy-Item -path zhiqiwang.github.io -destination &amp;#39;D:\Google Cloud\github\&amp;#39; -recurse -force cd ..\zhiqiwang.github.io\ git add . git commit -m &amp;#34;update $(date)&amp;#34; git push cd &amp;#39;D:\Google Cloud\github\BlogSource-Zhiqi&amp;#39;   </description>
+      <description>Just a memo.
+ Add publishDir = &amp;quot;zhiqiwang.github.io&amp;quot; in config.toml. Create a deploy.ps1 as below.  1 2 3 4 5 6 7 8 9 10 11  copy-item -path &amp;#39;D:\Google Cloud\github\BlogSource-Zhiqi\posts\*.*&amp;#39; -Destination &amp;#39;D:\Google Cloud\github\zhiqiblog\content\post\&amp;#39; -Force d: cd &amp;#39;D:\Google Cloud\github\zhiqiblog\&amp;#39; Remove-Item -Path zhiqiwang.github.io -Recurse -Force hugo -D Copy-Item -path zhiqiwang.github.io -destination &amp;#39;D:\Google Cloud\github\&amp;#39; -recurse -force cd ..\zhiqiwang.github.io\ git add . git commit -m &amp;#34;update $(date)&amp;#34; git push cd &amp;#39;D:\Google Cloud\github\BlogSource-Zhiqi&amp;#39;   </description>
     </item>
     
     <item>

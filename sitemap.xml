@@ -3,7 +3,7 @@
   
   <url>
     <loc>http://localhost:1313/post/automotive-depoly-blog-with-hugo/</loc>
-    <lastmod>2020-09-11T00:00:00-04:00</lastmod>
+    <lastmod>2020-09-11T16:15:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -23,56 +23,56 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/adding-mermaid-support-in-hugo-even-theme/</loc>
-    <lastmod>2020-09-11T14:32:40-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2020-09-11T14:32:40-04:00</lastmod>
+    <lastmod>2020-09-11T16:15:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-09-11T14:32:40-04:00</lastmod>
+    <lastmod>2020-09-11T16:15:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2020-09-11T14:32:40-04:00</lastmod>
+    <lastmod>2020-09-11T16:15:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2020-09-11T14:32:40-04:00</lastmod>
+    <lastmod>2020-09-11T16:15:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-09-11T14:32:40-04:00</lastmod>
+    <lastmod>2020-09-11T16:15:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/tips/</loc>
-    <lastmod>2020-09-11T14:32:40-04:00</lastmod>
+    <lastmod>2020-09-11T16:15:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/categories/tips/</loc>
+    <lastmod>2020-09-11T16:15:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/adding-mermaid-support-in-hugo-even-theme/</loc>
     <lastmod>2020-09-11T14:32:40-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
