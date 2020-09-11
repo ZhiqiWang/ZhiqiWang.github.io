@@ -38,7 +38,7 @@ It makes use of a variety of open source projects including:
       <pubDate>Fri, 11 Sep 2020 12:54:00 -0400</pubDate>
       
       <guid>https://zhiqiwang.github.io/post/adding-mermaid-support-in-hugo-even-theme/</guid>
-      <description>I tried some Hugo Themes, some are too powerful and complex to me, such as Academic. I did some research and find Even is a just right theme to me: easy to set up, float TOC, some minor modifiaction to support Mermaid. Here we go! Thanks to this Steps add code below in yoursite/themes/themes_name/layouts/partials/footer.html 1 &amp;lt;script src=&amp;#34;https://cdn.bootcss.com/mermaid/8.8.0/mermaid.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Create mermaid.html under shortcodes 1 2 3 4 5 6 7 &amp;lt;div class=&amp;#34;mermaid&amp;#34;</description>
+      <description>I tried some Hugo Themes, some are too powerful and complex to me, such as Academic. I did some research and find Even is a suitable theme to me: easy to set up, float TOC, some minor modification to support Mermaid. Here we go! Thanks to this Steps add code below in yoursite/themes/themes_name/layouts/partials/footer.html 1 &amp;lt;script src=&amp;#34;https://cdn.bootcss.com/mermaid/8.8.0/mermaid.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Create mermaid.html under shortcodes 1 2 3 4 5 6 7 &amp;lt;div class=&amp;#34;mermaid&amp;#34; align=&amp;#34;{{</description>
     </item>
     
     <item>
@@ -47,7 +47,7 @@ It makes use of a variety of open source projects including:
       <pubDate>Thu, 10 Sep 2020 21:46:03 +0000</pubDate>
       
       <guid>https://zhiqiwang.github.io/post/hugo-a-better-choice-to-create-blog-on-github/</guid>
-      <description>Hugo is a very fast static webpage generator, which is widely used to create blogs. I found Gridea is not a good choice due to the time zone problem and unpolished language support, although the workflow is quite simple and excatly what I wished for. So I am trying Hugo, a powerful tool but not as simple.
+      <description>Hugo is a very fast static webpage generator, which is widely used to create blogs. I found Gridea is not a good choice due to the time zone problem and unpolished language support, although the workflow is quite simple and exactly what I wished for. So I am trying Hugo, a powerful tool but not as simple.
 Quick Start Installation Doc
 For Windows platform:
 in PowerShell or CMD
