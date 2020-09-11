@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Automotive Depoly Blog with Hugo</title>
+      <link>http://localhost:1313/post/automotive-depoly-blog-with-hugo/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 -0400</pubDate>
+      
+      <guid>http://localhost:1313/post/automotive-depoly-blog-with-hugo/</guid>
+      <description>Just a memo. First add
+1 2 3 4 5 6 7 8 9 10 11  copy-item -path &amp;#39;D:\Google Cloud\github\BlogSource-Zhiqi\posts\*.*&amp;#39; -Destination &amp;#39;D:\Google Cloud\github\zhiqiblog\content\post\&amp;#39; -Force d: cd &amp;#39;D:\Google Cloud\github\zhiqiblog\&amp;#39; Remove-Item -Path zhiqiwang.github.io -Recurse -Force hugo -D Copy-Item -path zhiqiwang.github.io -destination &amp;#39;D:\Google Cloud\github\&amp;#39; -recurse -force cd ..\zhiqiwang.github.io\ git add . git commit -m &amp;#34;update $(date)&amp;#34; git push cd &amp;#39;D:\Google Cloud\github\BlogSource-Zhiqi&amp;#39;   </description>
+    </item>
+    
+    <item>
       <title>Adding Mermaid Support in Hugo (Even Theme)</title>
       <link>http://localhost:1313/post/adding-mermaid-support-in-hugo-even-theme/</link>
       <pubDate>Fri, 11 Sep 2020 12:54:00 -0400</pubDate>
