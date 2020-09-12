@@ -27,7 +27,7 @@
       <pubDate>Fri, 11 Sep 2020 12:54:00 -0400</pubDate>
       
       <guid>https://zhiqiwang.github.io/post/adding-mermaid-support-in-hugo-even-theme/</guid>
-      <description>I tried some Hugo Themes, some are too powerful and complex to me, such as Academic. I did some research and find Even is a suitable theme to me: easy to set up, float TOC, some minor modification to support Mermaid. Here we go! Thanks to this Steps add code below in yoursite/themes/themes_name/layouts/partials/footer.html 1 &amp;lt;script src=&amp;#34;https://cdn.bootcss.com/mermaid/8.8.0/mermaid.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Create mermaid.html under shortcodes 1 2 3 4 5 6 7 &amp;lt;div class=&amp;#34;mermaid&amp;#34; align=&amp;#34;{{</description>
+      <description>I tried some Hugo Themes, some are too powerful and complex to me, such as Academic. I did some research and find Even is a suitable theme to me: easy to set up, float TOC, some minor modification to support Mermaid. Here we go! Steps add code below in yoursite/themes/themes_name/layouts/partials/footer.html 1 &amp;lt;script src=&amp;#34;https://cdn.bootcss.com/mermaid/8.8.0/mermaid.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Create mermaid.html under shortcodes 1 2 3 4 5 6 7 &amp;lt;div class=&amp;#34;mermaid&amp;#34; align=&amp;#34;{{ if .Get &amp;#34;align&amp;#34;</description>
     </item>
     
   </channel>
