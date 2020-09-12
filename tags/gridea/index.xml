@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gridea on Zhiqi&#39;s Blog</title>
+    <link>https://zhiqiwang.github.io/tags/gridea/</link>
+    <description>Recent content in Gridea on Zhiqi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Sep 2020 01:07:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://zhiqiwang.github.io/tags/gridea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adding Mermaid Support in Gridea</title>
+      <link>https://zhiqiwang.github.io/post/adding-mermaid-support-in-gridea/</link>
+      <pubDate>Thu, 10 Sep 2020 01:07:44 +0000</pubDate>
+      
+      <guid>https://zhiqiwang.github.io/post/adding-mermaid-support-in-gridea/</guid>
+      <description>Gridea is a simple tool to generate a static blog via GitHub Pages. It support Ketax and standard Markdown. But it still cannot support Mermaid to draw graphs like flow charts. Here is hto to add Mermaid Support. Adding Mermaid Support Add code below in the head of post.ejs. This file locates in [your blogs]\theme\[your theme]\templates 1 2 3 4 5 6 7 8 9 10 11 12 13 14</description>
+    </item>
+    
+    <item>
+      <title>Gridea - Build a Static Blog by Github Pages</title>
+      <link>https://zhiqiwang.github.io/post/gridea-build-a-static-blog-by-github-pages/</link>
+      <pubDate>Wed, 09 Sep 2020 20:34:13 +0000</pubDate>
+      
+      <guid>https://zhiqiwang.github.io/post/gridea-build-a-static-blog-by-github-pages/</guid>
+      <description>I have been wanting to build a blog a long time ago, and I even applied for a domain and VPS. But I am lazy, to be honest, and don&amp;rsquo;t want to spend too much time in building a blog. So I googled and found some methods to build a blog via GitHub Pages. Such as Hexo, Jekyll, and Gridea. Among them, Gridea is the easiest for me, as I</description>
+    </item>
+    
+  </channel>
+</rss>

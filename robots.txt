@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://zhiqiwang.github.io/sitemap.xml
