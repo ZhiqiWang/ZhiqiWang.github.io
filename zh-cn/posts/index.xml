@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Zhiqi&#39;s Blog</title>
-        <link>https://zhiqiwang.github.io/zh-cn/</link>
-        <description>关于 LoveIt 主题</description>
+        <title>所有文章 - Zhiqi&#39;s Blog</title>
+        <link>https://zhiqiwang.github.io/zh-cn/posts/</link>
+        <description>所有文章 | Zhiqi&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wangzq863@gmail.com (Zhiqi Wang)</managingEditor>
-            <webMaster>wangzq863@gmail.com (Zhiqi Wang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 02 Aug 2019 11:04:49 &#43;0800</lastBuildDate>
-            <atom:link href="https://zhiqiwang.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>wangzq863@gmail.com (Zhiqi Wang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 02 Aug 2019 11:04:49 &#43;0800</lastBuildDate><atom:link href="https://zhiqiwang.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
     <title>关于 LoveIt</title>
     <link>https://zhiqiwang.github.io/zh-cn/about-theme-loveit/</link>
     <pubDate>Fri, 02 Aug 2019 11:04:49 &#43;0800</pubDate>

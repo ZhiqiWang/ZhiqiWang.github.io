@@ -2,6 +2,33 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://zhiqiwang.github.io/zh-cn/posts/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://zhiqiwang.github.io/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://zhiqiwang.github.io/zh-cn/posts/"
+                    /></url><url>
+            <loc>https://zhiqiwang.github.io/zh-cn/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://zhiqiwang.github.io/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://zhiqiwang.github.io/zh-cn/"
+                    /></url><url>
+            <loc>https://zhiqiwang.github.io/zh-cn/about-theme-loveit/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://zhiqiwang.github.io/about-theme-loveit/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://zhiqiwang.github.io/zh-cn/about-theme-loveit/"
+                    /></url><url>
             <loc>https://zhiqiwang.github.io/zh-cn/about/</loc><priority>0</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -28,15 +55,6 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://zhiqiwang.github.io/zh-cn/tags/"
-                    /></url><url>
-            <loc>https://zhiqiwang.github.io/zh-cn/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://zhiqiwang.github.io/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://zhiqiwang.github.io/zh-cn/"
                     /></url><url>
             <loc>https://zhiqiwang.github.io/zh-cn/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://zhiqiwang.github.io/zh-cn/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
