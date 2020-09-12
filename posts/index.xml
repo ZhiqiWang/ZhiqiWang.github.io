@@ -10,52 +10,42 @@
     <pubDate>Fri, 11 Sep 2020 16:14:00 -0400</pubDate>
     <author>Author</author>
     <guid>https://zhiqiwang.github.io/automotive-depoly-blog-with-hugo/</guid>
-    <description><![CDATA[Just a memo. With theme LoveIt.
- Add publishDir = &quot;zhiqiwang.github.io&quot; in config.toml. Create a deploy.ps1 as below.  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16  copy-item -path &#39;D:\Google Cloud\github\BlogSource-Zhiqi\posts&#39; -Destination &#39;D:\Google Cloud\github\zhiqiblog\content\&#39; -Recurse -Force d: cd &#39;D:\Google Cloud\github\zhiqiblog\&#39; Remove-Item -Path zhiqiwang.github.io -Recurse -Force hugo -D copy-item -path &#39;D:\Google Cloud\github\zhiqiwang.github.io\.git&#39; -destination &#39;D:\Google Cloud\github\&#39; -Recurse -Force remove-item -path &#39;D:\Google Cloud\github\zhiqiwang.github.io&#39; -Recurse -Force mkdir &#39;D:\Google Cloud\github\zhiqiwang.]]></description>
+    <description><![CDATA[<p>Just a memo. With theme <a href="https://hugoloveit.com/" target="_blank" rel="noopener noreffer">LoveIt</a>.</p>]]></description>
 </item><item>
     <title>Adding Mermaid Support in Hugo (Even Theme)</title>
     <link>https://zhiqiwang.github.io/adding-mermaid-support-in-hugo-even-theme/</link>
     <pubDate>Fri, 11 Sep 2020 12:54:00 -0400</pubDate>
     <author>Author</author>
     <guid>https://zhiqiwang.github.io/adding-mermaid-support-in-hugo-even-theme/</guid>
-    <description><![CDATA[I tried some Hugo Themes, some are too powerful and complex to me, such as Academic. I did some research and find Even is a suitable theme to me: easy to set up, float TOC, some minor modification to support Mermaid. Here we go!
-Steps  add code below in yoursite/themes/themes_name/layouts/partials/footer.html  1  &lt;script src=&#34;https://cdn.bootcss.com/mermaid/8.8.0/mermaid.min.js&#34;&gt;&lt;/script&gt;   Create mermaid.html under shortcodes  1 2 3 4 5 6 7  &lt;div class=&#34;mermaid&#34; align=&#34;{{ if .]]></description>
+    <description><![CDATA[<p>I tried some Hugo Themes, some are too powerful and complex to me, such as Academic. I did some research and find Even is a suitable theme to me: easy to set up, float TOC, some minor modification to support Mermaid. Here we go!</p>]]></description>
 </item><item>
     <title>Hugo - A Better Choice to Create Blog on GitHub</title>
     <link>https://zhiqiwang.github.io/hugo-a-better-choice-to-create-blog-on-github/</link>
     <pubDate>Thu, 10 Sep 2020 21:46:03 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://zhiqiwang.github.io/hugo-a-better-choice-to-create-blog-on-github/</guid>
-    <description><![CDATA[Hugo is a very fast static webpage generator, which is widely used to create blogs. I found Gridea is not a good choice due to the time zone problem and unpolished language support, although the workflow is quite simple and exactly what I wished for. So I am trying Hugo, a powerful tool but not as simple.
-Quick Start Installation Doc
-For Windows platform:
-in PowerShell or CMD
-1 2 3 4 5  scoop install hugo-extended hugo new site quickstart cd quickstart git init git submodule add https://github.]]></description>
+    <description><![CDATA[<p>Hugo is a very fast static webpage generator, which is widely used to create blogs. I found Gridea is not a good choice due to the time zone problem and unpolished language support, although the workflow is quite simple and exactly what I wished for. So I am trying Hugo, a powerful tool but not as simple.</p>]]></description>
 </item><item>
     <title>Adding Mermaid Support in Gridea</title>
     <link>https://zhiqiwang.github.io/adding-mermaid-support-in-gridea/</link>
     <pubDate>Thu, 10 Sep 2020 01:07:44 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://zhiqiwang.github.io/adding-mermaid-support-in-gridea/</guid>
-    <description><![CDATA[Gridea is a simple tool to generate a static blog via GitHub Pages. It support Ketax and standard Markdown. But it still cannot support Mermaid to draw graphs like flow charts. Here is hto to add Mermaid Support.
-Adding Mermaid Support Add code below in the head of post.ejs. This file locates in [your blogs]\theme\[your theme]\templates
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  &lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.]]></description>
+    <description><![CDATA[<p>Gridea is a simple tool to generate a static blog via GitHub Pages. It support Ketax and standard Markdown. But it still cannot support Mermaid to draw graphs like flow charts. Here is hto to add Mermaid Support.</p>]]></description>
 </item><item>
     <title>Gridea - Build a Static Blog by Github Pages</title>
     <link>https://zhiqiwang.github.io/gridea-build-a-static-blog-by-github-pages/</link>
     <pubDate>Wed, 09 Sep 2020 20:34:13 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://zhiqiwang.github.io/gridea-build-a-static-blog-by-github-pages/</guid>
-    <description><![CDATA[I have been wanting to build a blog a long time ago, and I even applied for a domain and VPS. But I am lazy, to be honest, and don&rsquo;t want to spend too much time in building a blog. So I googled and found some methods to build a blog via GitHub Pages. Such as Hexo, Jekyll, and Gridea. Among them, Gridea is the easiest for me, as I feel more comfortable with a desktop app.]]></description>
+    <description><![CDATA[<p>I have been wanting to build a blog a long time ago, and I even applied for a domain and VPS. But I am lazy, to be honest, and don&rsquo;t want to spend too much time in building a blog. So I googled and found some methods to build a blog via GitHub Pages. Such as Hexo, Jekyll, and Gridea. Among them, Gridea is the easiest for me, as I feel more comfortable with a desktop app. So here we go!</p>]]></description>
 </item><item>
     <title>VR Experience - Valve Index</title>
     <link>https://zhiqiwang.github.io/vr-experience-valve-index/</link>
     <pubDate>Tue, 08 Sep 2020 20:08:05 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://zhiqiwang.github.io/vr-experience-valve-index/</guid>
-    <description><![CDATA[Yesterday, I tried my Index first time - although I have receive it for more tna 1 month. That is a long story, but all in all, I finally make it works.
-The experience is quite exciting - download steamVR, setup and calibrate Base Stations, update firmware, wear contact glasses lol. Anyway, it spend around 40 min to make it fully works.
-Labs This is a free but interesting game, including some small games.]]></description>
+    <description><![CDATA[<p>Yesterday, I tried my Index first time - although I have receive it for more tna 1 month. That is a long story, but all in all, I finally make it works.</p>]]></description>
 </item><item>
     <title>About Theme LoveIt</title>
     <link>https://zhiqiwang.github.io/about-theme-loveit/</link>
