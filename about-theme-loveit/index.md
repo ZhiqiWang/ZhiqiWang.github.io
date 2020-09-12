@@ -1,4 +1,4 @@
-# About LoveIt
+# About Theme LoveIt
 
 
 
