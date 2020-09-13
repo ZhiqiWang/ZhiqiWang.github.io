@@ -4,7 +4,14 @@
         <link>https://zhiqiwang.github.io/zh-cn/posts/</link>
         <description>所有文章 | Zhiqi&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wangzq863@gmail.com (Zhiqi Wang)</managingEditor>
-            <webMaster>wangzq863@gmail.com (Zhiqi Wang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 02 Aug 2019 11:04:49 &#43;0800</lastBuildDate><atom:link href="https://zhiqiwang.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>wangzq863@gmail.com (Zhiqi Wang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</lastBuildDate><atom:link href="https://zhiqiwang.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>主题文档 - 扩展 Shortcodes</title>
+    <link>https://zhiqiwang.github.io/zh-cn/theme-documentation-extended-shortcodes/</link>
+    <pubDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zhiqiwang.github.io/zh-cn/theme-documentation-extended-shortcodes/</guid>
+    <description><![CDATA[<p><strong>LoveIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.</p>]]></description>
+</item><item>
     <title>关于 主题 LoveIt</title>
     <link>https://zhiqiwang.github.io/zh-cn/about-theme-loveit/</link>
     <pubDate>Fri, 02 Aug 2019 11:04:49 &#43;0800</pubDate>

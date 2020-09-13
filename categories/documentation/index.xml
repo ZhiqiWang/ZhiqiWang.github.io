@@ -4,5 +4,12 @@
         <link>https://zhiqiwang.github.io/categories/documentation/</link>
         <description>Documentation - Category - Zhiqi&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>wangzq863@gmail.com (Zhiqi Wang)</managingEditor>
-            <webMaster>wangzq863@gmail.com (Zhiqi Wang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://zhiqiwang.github.io/categories/documentation/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>wangzq863@gmail.com (Zhiqi Wang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</lastBuildDate><atom:link href="https://zhiqiwang.github.io/categories/documentation/" rel="self" type="application/rss+xml" /><item>
+    <title>Theme Documentation - Extended Shortcodes</title>
+    <link>https://zhiqiwang.github.io/theme-documentation-extended-shortcodes/</link>
+    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://zhiqiwang.github.io/theme-documentation-extended-shortcodes/</guid>
+    <description><![CDATA[<p><strong>LoveIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
+</item></channel>
 </rss>
